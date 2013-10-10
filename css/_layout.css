@@ -333,6 +333,7 @@ width: 98%;
 }
 header aside .newsletter-signup label {
 color: #f3ec3f;
+margin-bottom: 0;
 }
 header aside .newsletter-signup input {
 width: 93%;
@@ -342,8 +343,9 @@ padding: 10px 10px;
 border: none;
 }
 header aside .newsletter-signup input.button {
-width: 99%;
+width: 99% !important;
 background-color: #bbb;
+margin-top: 0 !important;
 }
 header aside .get-connected {
 position: absolute;
