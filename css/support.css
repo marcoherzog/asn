@@ -1,0 +1,29 @@
+/* support page */
+@media all {
+.support-page #content h1,
+.support-page #content h2 {
+display: block;
+color: #fff;
+background-color: #1d73b5;
+margin-bottom: 20px;
+padding-bottom: 80px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 20px;
+}
+.support-page .widget-area .textwidget {
+background-color: #4d4b4a;
+}
+.support-page .widget-area .textwidget h1 {
+color: #fff100;
+text-transform: uppercase;
+font-size: 1.4em;
+padding: 1em;
+margin: 0;
+}
+.support-page .widget-area .textwidget p {
+color: #fff;
+padding: 0em 1em 1em 1em;
+line-height: 1.1em;
+}
+}

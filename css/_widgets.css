@@ -1,0 +1,80 @@
+@media all {
+
+/* basic */
+.widget-area aside {
+margin: 0 0 15px 0;
+}
+
+/* Calendar Widget */
+
+.widget_calendar #wp-calendar {
+  color: #555;
+  width: 95%;
+  text-align: center;
+}
+.widget_calendar #wp-calendar caption,
+.widget_calendar #wp-calendar td,
+.widget_calendar #wp-calendar th {
+  text-align: center;
+}
+.widget_calendar #wp-calendar caption {
+  font-size: 11px;
+  font-weight: 500;
+  padding: 5px 0 3px 0;
+  text-transform: uppercase;
+}
+.widget_calendar #wp-calendar th {
+  background: #f4f4f4;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  font-weight: bold;
+}
+.widget_calendar #wp-calendar tfoot td {
+  background: #f4f4f4;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+/* Ephemara */
+
+.widget_twentyeleven_ephemera {
+}
+.widget_twentyeleven_ephemera li {
+border-bottom: 1px dashed #bbb;
+padding: 0 0 5px 0;
+margin: 0 0 5px 0;
+}
+.widget_twentyeleven_ephemera li:last-child {
+border-bottom: none;
+padding: 0;
+margin: 0;
+}
+.widget_twentyeleven_ephemera h4 {
+  line-height: 1.4em;
+}
+.widget_twentyeleven_ephemera p {
+  font-size: 11px;
+  line-height: 1.2em;
+  color: #777;
+}
+footer .widget_twentyeleven_ephemera h4 a,
+footer .widget_twentyeleven_ephemera p a {
+}
+footer aside.widget_twentyeleven_ephemera p {
+  color: #bbb;
+}
+
+/* widget_recent_entries widget widget_categories */
+.content .na-col1 .widget_categories ul,
+.content .na-col3 .widget_categories ul,
+.content .na-col1 .widget_recent_entries ul,
+.content .na-col3 .widget_recent_entries ul,
+.content .na-col1 p ul,
+.content .na-col3 p ul {
+  list-style: disc outside none;
+  padding: 0 0px 0 20px;
+  font-size: 0.95em;
+}
+
+
+}

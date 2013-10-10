@@ -1,0 +1,158 @@
+# Copyright (C) 2010 Twenty Eleven
+# This file is distributed under the same license as the Twenty Eleven package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Eleven 1.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/twentyeleven\n"
+"POT-Creation-Date: 2012-12-13 14:43+0100\n"
+"PO-Revision-Date: 2012-12-13 14:44+0100\n"
+"Last-Translator: Marco Herzog <marco.herzog@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: .././404.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: .././404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: .././archive.php:39
+msgid "Blog Archives"
+msgstr ""
+
+#: .././archive.php:65 .././author.php:83 .././category.php:48
+#: .././category.php:125 .././home.php:53 .././index.php:53 .././search.php:55
+#: .././tag.php:59
+msgid "Nothing Found"
+msgstr ""
+
+#: .././archive.php:69 .././author.php:87 .././category.php:52
+#: .././category.php:129 .././home.php:57 .././index.php:57 .././tag.php:63
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: .././comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: .././comments.php:40 .././comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: .././comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: .././content-excerpt.php:18 .././content-showcases.php:18
+#: .././content.php:19
+msgid "Featured"
+msgstr ""
+
+#: .././footer.php:20 .././footer.php:25
+msgid "Bottom menu"
+msgstr ""
+
+#: .././functions.php:442 .././functions.php:459 .././functions.php:481
+msgid "Post navigation"
+msgstr ""
+
+#: .././functions.php:486
+msgid "<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: .././functions.php:489
+msgid "<span class=\"meta-nav\">&larr;</span>"
+msgstr ""
+
+#: .././functions.php:560
+msgid "Pingback:"
+msgstr ""
+
+#: .././functions.php:592
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: .././header-category-showcases.php:129 .././header-home.php:117
+#: .././header-home_bakjs.php:162 .././header-home_bakorig.php:110
+#: .././header-image-page.php:142 .././header.php:128
+msgid "Main menu"
+msgstr ""
+
+#: .././header-category-showcases.php:131 .././header-home.php:119
+#: .././header-home_bakjs.php:164 .././header-home_bakorig.php:112
+#: .././header-image-page.php:144 .././header.php:130
+msgid "Skip to primary content"
+msgstr ""
+
+#: .././header-category-showcases.php:132 .././header-home.php:120
+#: .././header-home_bakjs.php:165 .././header-home_bakorig.php:113
+#: .././header-image-page.php:145 .././header.php:131
+msgid "Skip to secondary content"
+msgstr ""
+
+#: .././header-category-showcases.php:139
+#: .././header-category-showcases.php:149 .././header-home.php:141
+#: .././header-home_bakjs.php:186 .././header-home_bakorig.php:134
+#: .././header-image-page.php:152 .././header-image-page.php:162
+#: .././header.php:138 .././header.php:148
+msgid "Top menu"
+msgstr ""
+
+#: .././header-home.php:93
+msgid "Marco"
+msgstr ""
+
+#: .././image.php:13
+msgid "Image navigation"
+msgstr ""
+
+#: .././search.php:59
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: .././searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: .././showcase-home.php:89 .././showcase.php:76
+msgid "Featured Post"
+msgstr ""
+
+#: .././showcase-home.php:182 .././showcase.php:169
+msgid "Recent Posts"
+msgstr ""
+
+#: .././sidebar.php:24
+msgid "Archives"
+msgstr ""
+
+#: .././sidebar.php:31
+msgid "Meta"
+msgstr ""
+
+#: .././inc/widgets.php:167
+msgid "Title:"
+msgstr ""
+
+#: .././inc/widgets.php:170
+msgid "Number of posts to show:"
+msgstr ""

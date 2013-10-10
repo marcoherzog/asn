@@ -1,0 +1,75 @@
+/* Page-Navigation */
+@media screen, projection {
+/*
+ * .page-link: navigation posts and articles with more sheets
+ * .na-nav: navigation for overviewpages eg. categories (category.php, index.php, author.php, ...)
+ * 
+ */
+.page-link {
+  clear: both;
+  font-size: 1.5em;
+  margin: 30px 0 0 0;
+  color: #222;
+  text-align: center;
+  line-height: 1.5em;
+}
+.page-link span {
+  font-size: 11px;
+  display: none;
+}
+.na-nav {
+  height: 28px;
+  clear: both;
+}
+#nav-above.na-nav {
+  margin-bottom: 25px;
+}
+#nav-below.na-nav {
+  margin-top: 25px;
+}
+.page-link a,
+.na-nav a {
+  color: #fd0000 !important;
+  padding: 2px 11px 4px 11px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+}
+.page-link a {
+  margin: 0 2px;
+}
+.page-link a:hover,
+.page-link a:focus,
+.na-nav a:hover,
+.na-nav a:focus {
+  color: #fd0000 !important;
+  background-color: #fff !important;
+  text-decoration: none;
+}
+.na-nav .nav-next {
+}
+.na-nav .nav-next a {
+  float: right;
+}
+.na-nav .nav-previous a {
+  float: left;
+}
+/* image-page navigation next/previous image */
+.image-page .na-nav {
+  height: 70px;
+}
+.image-page .na-nav .nav-next a {
+  float: left;
+  margin-left: 10px;
+}
+}
+@media print {
+.page-link a,
+.na-nav a {
+display:none;
+}
+
+}
+
+
+

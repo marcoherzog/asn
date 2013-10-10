@@ -1,0 +1,47 @@
+@media all {
+.teaser {
+margin-bottom: -20px;
+margin-top: -30px;
+position: relative;
+z-index: 0;
+}
+.teaser .content {
+margin: 0 auto;
+position: relative;
+width:80%;
+min-width: 320px;
+max-width: 1400px;
+}
+.teaser .content img {
+width:99%;
+}
+#main .na-column2 .na-col2 .na-cbox {
+background: none;
+border: none;
+filter: none;
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+}
+}
+@media screen, projection {
+.teaser .content {
+}
+}
+@media screen and ( max-width: 1060px )  {
+.teaser {
+display:none;
+}
+}
+@media screen and ( max-height: 480px ) {
+.teaser {
+display:none;
+}
+}
+@media print {
+.teaser {
+display:none;
+}
+}
+
+

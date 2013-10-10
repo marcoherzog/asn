@@ -1,0 +1,90 @@
+@media screen, projection {
+
+.blog,
+.category {
+}
+.blog article,
+.category article {
+float: left;
+width: 49%;
+margin-right: 3px;
+}
+.category article {
+margin-bottom:3px;
+padding-bottom:0;
+}
+.category article header {
+margin-bottom:0;
+height: 90px;
+}
+.blog article.first header {
+background-color: #bc2423;
+}
+.blog article.last header {
+background-color: #74b734;
+}
+.category .count0 article header,
+.category .count4 article header,
+.category .count8 article header {
+background-color: #bd2421;
+}
+.category .count1 article header,
+.category .count5 article header,
+.category .count9 article header {
+background-color: #73b631;
+}
+.category .count2 article header,
+.category .count6 article header,
+.category .count10 article header {
+background-color: #1871b5;
+}
+.category .count3 article header,
+.category .count7 article header,
+.category .count11 article header {
+background-color: #fff300;
+}
+.category article header a,
+.category article header a:hover,
+.category article header a:focus {
+color: #fff;
+}
+.category .count3 article a,
+.category .count3 article a:hover,
+.category .count3 article a:focus,
+.category .count7 article a,
+.category .count7 article a:hover,
+.category .count7 article a:focus,
+.category .count11 article a,
+.category .count11 article a:hover,
+.category .count11 article a:focus {
+color: #000;
+}
+.blog article > div.textarea,
+.category article > div.textarea {
+padding: 0 20px;
+}
+.blog article div.teaserimage,
+.category article div.teaserimage {
+height: 220px;
+margin-bottom: 3px;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-position: center center;
+background-color: #D6D6D6;
+}
+
+}
+
+@media screen and ( max-width: 860px )  {
+
+.blog article,
+.category article {
+float: none;
+width: auto;
+margin-right: 0;
+}
+
+
+}

@@ -1,0 +1,21 @@
+/*
+Theme Name: ASN
+Theme URI: none
+Author: NA-Media
+Author URI: http://www.na-media.de
+Description: 
+Version: 2.1
+License: 
+License URI: license.txt
+Tags: 
+*/
+
+@import url("css/_reset.css");
+@import url("css/_structure.css");
+@import url("css/_layout.css");
+@import url("css/_elements.css");
+@import url("css/_widgets.css");
+@import url("css/_comments.css");
+@import url("css/_showcase.css");
+/*@import url("css/_basic2011.css");*/
+
